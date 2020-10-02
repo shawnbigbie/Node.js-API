@@ -3,9 +3,9 @@
 ![REST API](https://i.ibb.co/7GWCCbp/Screenshot-2020-07-12-at-08-30-32.png)
 
 # Introduction
-Type npm install in console
+Type "npm install" in console
 
-Then Type npm start
+Then type "npm start" to run API
 
 Runs on http://localhost:5000
 
