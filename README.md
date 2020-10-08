@@ -7,12 +7,12 @@ Type "npm install" in console
 
 Then type "npm start" to run API
 
-Runs on http://localhost:5000
+Runs on http://localhost:5000 or https://nodeuserapi.herokuapp.com for live version
 
 *There will be two Users already hard coded for examples and placeholders*
 
 ## To Get all Users
-URL is http://localhost:5000/users or Get Request to that
+URL is http://localhost:5000/users or https://nodeuserapi.herokuapp.com Get Request to that
 
 ## To Add A User
 Post Request a JSON object
@@ -28,7 +28,7 @@ all new and real users will have a Id created with them.
 
 ## To Update A User
 Patch Request with JSON data and the URL of the User 
-http://localhost:5000/users/Id
+http://localhost:5000/users/Id or https://nodeuserapi.herokuapp.com/users/Id
 replace the Id with the user you want to delete.
 
 below is example
@@ -38,5 +38,5 @@ below is example
 
 ## To Delete A User
 Delete Request with the User URL
-http://localhost:5000/users/Id
+http://localhost:5000/c or https://nodeuserapi.herokuapp.com/users/Id
 replace the Id with the user you want to delete.
